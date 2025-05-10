@@ -21,14 +21,11 @@ The dataset includes investment-related metrics for a range of companies. Throug
 - Comparative analysis between different companies
 - Observations on trends and outliers
 
-## 🧠 Insights
-
-- [ ] Add your key findings here: e.g., "Company A had the most stable growth", or "Outliers in Company B’s data indicate unusual trading activity."
 
 ## 📂 Dataset
 
-If public, add a link or brief explanation:
-> The dataset was obtained from XYZ source (or simulated for academic purposes).
+[Top 2000 Dataset](https://github.com/Sammydcode/Company-Share-Investment-Analysis/commit/43dcb83ef745ec8a060d62185668aa1086e1add9)
+> The dataset was obtained from Kaggle.com website.
 
 ## 🚀 How to Run
 
@@ -37,4 +34,4 @@ If public, add a link or brief explanation:
 3. Run all cells
 
 ```bash
-git clone https://github.com/yourusername/share-investment-analysis.git
+git clone https:[//github.com/yourusername/share-investment-analysis.git](https://github.com/Sammydcode/Company-Share-Investment-Analysis/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)
