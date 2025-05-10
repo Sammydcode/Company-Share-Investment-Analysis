@@ -34,4 +34,4 @@ The dataset includes investment-related metrics for a range of companies. Throug
 3. Run all cells
 
 ```bash
-git clone https:[//github.com/yourusername/share-investment-analysis.git](https://github.com/Sammydcode/Company-Share-Investment-Analysis/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)
+git clone https://github.com/Sammydcode/Company-Share-Investment-Analysis/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis)
